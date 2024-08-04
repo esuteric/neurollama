@@ -24,5 +24,5 @@ Neurollama is a cutting-edge project focused on Alzheimer's detection and classi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/neurollama.git
+   git clone https://github.com/esuteric/neurollama
    cd neurollama
